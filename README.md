@@ -27,3 +27,7 @@ Usage
     It works like a scripting environment or BASIC
 ## Fastmode
     Works like a regular shell
+
+
+# Requirements
+You need goimports and go to use this program
