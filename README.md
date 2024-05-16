@@ -24,6 +24,6 @@ Usage
 # Difference between normal mode and fastmode
 
 ## Normal mode:
-    It world like a scripting environment
+    It works like a scripting environment or BASIC
 ## Fastmode
     Works like a regular shell
